@@ -1,0 +1,13 @@
+.no-ver {
+	display: none;
+	visibility: hidden;
+}
+
+.form_api {
+	margin-top: 5%;
+	color: #000;
+	background-color: #D4D4D4; /*4267B2*/
+	padding: 20px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
